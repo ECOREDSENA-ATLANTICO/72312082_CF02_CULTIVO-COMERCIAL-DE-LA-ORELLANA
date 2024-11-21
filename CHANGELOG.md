@@ -133,6 +133,10 @@ Estos son los cambios hechos en la ECORED-BASE-2021
 - /src/views/Tema1.vue
 - /src/views/Tema2.vue
 - /src/views/Tema3.vue
+- /src/views/Tema4.vue
+- /src/views/Tema5.vue
+- /src/views/Tema6.vue
+- /src/views/Tema7.vue
 
 ### Agregado
 

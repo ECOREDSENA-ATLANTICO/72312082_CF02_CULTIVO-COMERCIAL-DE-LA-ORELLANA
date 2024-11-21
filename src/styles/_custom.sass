@@ -2,18 +2,530 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 0%
+    right: 80%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: -5%
+    right: 25%
+  &-3
+    animation: float3 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 40%
+    right: 5%
 
+.banner-principal
+  &__img
+    padding-bottom: 0px!important
+    padding-top:1em!important
+    @media (min-width: 576px)
+      align-self: end
+  &__row &__img
+    @media (min-width: 576px)
+      padding-right: 0!important
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateY(120px)
 
   100%
-    transform: translateY(0px)
+    transform: translateY(80px)
+@keyframes float2
+  0%
+    transform: translateY(98px)
+
+  100%
+    transform: translateY(80px)
+@keyframes float3
+  0%
+    transform: translateY(100px)
+
+  100%
+    transform: translateY(80px)
+
+.banner-principal .tarjeta 
+  background-color: #7C7A48
+  background-size: cover
+  background-position: center
+
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/banner-interno.png) !important
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero 
+    background-color: #FFC303
+
+.fnd
+  background-image: url(../assets/curso/temas/tema1/img1.png)
+  background-repeat: no-repeat
+  background-size: cover
+  padding: 1.2em
+  border-radius: 25px
+
+.fondo-titulo-3
+  background: #7C7C46
+  border-radius: 30px
+  width: fit-content
+  height: 85px
+  align-content: space-around
+.borde-tarjeta-t3
+  border: 2px solid #7C7C46
+  border-radius: 25px
+  padding: 1.5em
+  padding-top: 2.5em
+  position: relative
+  top: -20px
+  width: fit-content
+  height: 420px
+  align-content: space-around
+
+.fondo-titulo-7
+  background: #7C7C46
+  border-radius: 30px
+  width: fit-content
+  height: 85px
+  align-content: space-around
+.borde-tarjeta-t7
+  border: 2px solid #7C7C46
+  border-radius: 25px
+  padding: 1.5em
+  padding-top: 2.5em
+  position: relative
+  top: -20px
+  width: fit-content
+  height: 420px
+  align-content: space-around
+
+
+.fondo-titulo-7
+  background: #7C7C46
+  border-radius: 30px
+  width: fit-content
+  height: 85px
+  align-content: space-around
+.borde-tarjeta-t7
+  border: 2px solid #7C7C46
+  border-radius: 25px
+  padding: 1.5em
+  padding-top: 2.5em
+  position: relative
+  top: -20px
+  width: fit-content
+  height: 420px
+  align-content: space-around
+
+@media (min-width:1024px) and (max-width:2560px)  
+  .fondo-titulo-3
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 85px
+    align-content: space-around
+  .borde-tarjeta-t3
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 420px
+    align-content: space-around
+@media (min-width:768px) and (max-width:1024px)  
+  .fondo-titulo-7
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 90px
+    align-content: space-around
+  .borde-tarjeta-t7
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 650px
+    align-content: space-around
+@media (min-width:100px) and (max-width:768px)  
+  .fondo-titulo-7
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 70px
+    align-content: space-around
+  .borde-tarjeta-t7
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -27px
+    width: fit-content
+    height: 520px
+    align-content: space-around
+
+@media (min-width:768px) and (max-width:1024px)  
+  .fondo-titulo-3
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 89px
+    align-content: space-around
+  .borde-tarjeta-t3
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -22px
+    width: fit-content
+    height: 330px
+    align-content: space-around
+@media (min-width:100px) and (max-width:769px)  
+  .fondo-titulo-3
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 89px
+    align-content: space-around
+  .borde-tarjeta-t3
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -22px
+    width: fit-content
+    height: 500px
+    align-content: space-around
+
+@media (min-width:1024px) and (max-width:2560px)  
+  .fondo-titulo-2
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 100px
+    align-content: space-around
+  .borde-tarjeta
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 420px
+    align-content: space-around
+    
+@media (min-width:768px) and (max-width:1025px)  
+  .fondo-titulo-2
+    background: #7C7C46
+    border-radius: 30px
+    height: 80px
+    align-content: space-around
+  .borde-tarjeta
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 300px
+    align-content: space-around
+
+@media (min-width:425px) and (max-width:768px)  
+  .fondo-titulo-2
+    background: #7C7C46
+    border-radius: 30px
+    height: 92px
+    align-content: space-around
+  .borde-tarjeta
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 370px
+    align-content: space-around
+
+@media (min-width:100px) and (max-width:425px)  
+  .fondo-titulo-2
+    background: #7C7C46
+    border-radius: 30px
+    height: 92px
+    align-content: space-around
+  .borde-tarjeta
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 370px
+    align-content: space-around
+
+
+
+@media (min-width:1024px) and (max-width:2560px)  
+  .fondo-titulo
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 100px
+    align-content: space-around
+  .borde-tarjeta-1
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 400px
+    align-content: space-around
+    p.text-center
+      margin-top: 3em 
+  .borde-tarjeta-2
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 400px
+  .borde-tarjeta-3
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 400px
+  .borde-tarjeta-4
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 400px
+    align-content: space-around
+    p.text-center
+      margin-top: 3em
+
+@media (min-width:768px) and (max-width:1025px)  
+  .fondo-titulo
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 80px
+    align-content: space-around
+  .borde-tarjeta-1
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 350px
+    align-content: space-around
+    p.text-center
+      margin-top: 1em
+  .borde-tarjeta-2
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    align-content: space-around
+    height: 300px
+  .borde-tarjeta-3
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 300px
+    align-content: space-around
+  .borde-tarjeta-4
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 220px
+    align-content: space-around
+    p.text-center
+      margin-top: 1em
+
+@media (min-width:425px) and (max-width:768px)  
+  .fondo-titulo
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 80px
+    align-content: space-around
+  .borde-tarjeta-1
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 300px
+    align-content: space-around
+    p.text-center
+      margin-top: 1em
+  .borde-tarjeta-2
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    align-content: space-around
+    height: 300px
+  .borde-tarjeta-3
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 300px
+    align-content: space-around
+  .borde-tarjeta-4
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 300px
+    align-content: space-around
+    p.text-center
+      margin-top: 1em
+@media (min-width:320px) and (max-width:425px)  
+  .fondo-titulo
+    background: #7C7C46
+    border-radius: 30px
+    width: fit-content
+    height: 80px
+    align-content: space-around
+  .borde-tarjeta-1
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 300px
+    align-content: space-around
+    p.text-center
+      margin-top: 1em
+  .borde-tarjeta-2
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    align-content: space-around
+    height: 300px
+  .borde-tarjeta-3
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 300px
+    align-content: space-around
+  .borde-tarjeta-4
+    border: 2px solid #7C7C46
+    border-radius: 25px
+    padding: 1.5em
+    padding-top: 2.5em
+    position: relative
+    top: -20px
+    width: fit-content
+    height: 300px
+    align-content: space-around
+    p.text-center
+      margin-top: 1em
+
+.tarjeta.acordeonA
+  background-color: #FFFBF0
+
+.acordion__accion__btn--a
+  background-color: #F89A20 !important
+
+ul.mt-0
+  list-style-type: none
+
+ul.mt-0 li 
+  position: relative
+  padding-left: 1.5em
+
+ul.mt-0 li::before 
+  content: url('../assets/curso/temas/tema3/img8.svg')
+  position: absolute
+  left: 0
+  top: 0em
+  width: 16px
+  height: 16px
+
+.blue_icon
+  background: rgb(255,246,217)
+  background: linear-gradient(90deg, #FFF6D9 0%, #FFFFFF 35%, #131F32#FFFFFF 100%)
+  display: inline-block
+  color: #fff
+  padding: 5px 20px
+  position: relative
+  border-top-right-radius: 25px
+  color: black
+
+  &:after
+    content: url(../assets/curso/temas/tema5/img3.png)
+    position: absolute
+    right: 250px
+    top: -4px
+
+.fnd-4     
+  background-color: #F6F6F6
+  border-radius: 10px
+  display: flex
+  flex-wrap: wrap
+  justify-content: center
+  align-content: center
+  align-items: center
+  p 
+    text-align: start
+  p::first-letter 
+    text-transform: uppercase
+  h1
+    color: #CACAB4
+    margin-bottom: 0   
