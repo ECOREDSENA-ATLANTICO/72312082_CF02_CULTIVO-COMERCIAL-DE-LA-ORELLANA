@@ -21,7 +21,7 @@
         img.my-3(src='@/assets/curso/temas/tema5/img2.png', alt=' Muestra los tipos de empaque de las orellanas. Los hongos perecederos deben almacenarse en canastillas plásticas cubiertas con papel adherible perforado, refrigerados a 5 °C por 4 días.')
       .col-lg-5.order-lg-3.order-md-1.align-content-center
         p.my-3 La incubación es el período necesario para que el hongo invada completamente el substrato en las condiciones adecuadas. La duración puede variar entre 20 y 35 días aproximadamente. Durante este periodo de tiempo el micelio del hongo se crece invadiendo gradualmente el sustrato, cambiando éste de color blanquecino, hasta quedar completamente blanco. En este momento termina la etapa de incubación.
-    p.text-center.mt-0 Nota. Tipos de empaque de las orellanas. Fuente: Mundhongo (2017).
+    p.ps-1.text-center.mt-0 Nota. Tipos de empaque de las orellanas. Fuente: Mundhongo (2017).
 
     h3(data-aos="fade-left").mb-3.mt-3.blue_icon Métodos de conservación 
 

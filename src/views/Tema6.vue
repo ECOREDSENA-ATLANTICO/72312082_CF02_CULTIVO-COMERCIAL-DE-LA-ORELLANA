@@ -21,7 +21,7 @@
             img.my-3(src='@/assets/curso/temas/tema6/img1.png', alt='Muestra los hongos deshidratados. El secado reduce la humedad de los hongos al 10-12%, garantizando su conservación y calidad estructural, volumen y apariencia.')
         p.text-center.mt-0 Nota. Hongos comestibles y medicinales (2013).
 
-    h3(data-aos="fade-left").mb-3.mt-3.blue_icon Formas de deshidratación 
+    h3(data-aos="fade-left").mb-3.mt-3.ps-4.blue_icon Formas de deshidratación 
 
     p.my-3 Los hongos se pueden deshidratar en forma natural o mediante el uso de sistemas artificiales.
     
