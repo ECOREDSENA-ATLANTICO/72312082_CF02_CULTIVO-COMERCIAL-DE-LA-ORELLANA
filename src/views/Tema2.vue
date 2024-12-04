@@ -9,7 +9,7 @@
     
     .row.justify-content-center.my-3
       .titulo-sexto.color-acento-contenido.mb-3.order-lg-1.order-md-2(data-aos="fade-left")
-        h5 figura 2.
+        h5 Figura 2.
         span <em>Inoculación del hongo en el sustrato</em>
       .col-lg-5.order-lg-3.order-md-1
         p.my-3 La incubación es el período necesario para que el hongo invada completamente el substrato en las condiciones adecuadas. La duración puede variar entre 20 y 35 días aproximadamente. Durante este periodo de tiempo el micelio del hongo se crece invadiendo gradualmente el sustrato, cambiando éste de color blanquecino, hasta quedar completamente blanco. En este momento termina la etapa de incubación.
@@ -64,7 +64,7 @@
         .row.justify-content-center.my-3
           .col-lg-5.col-md-8
             .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-left")
-              h5 figura 3.
+              h5 Figura 3.
               span <em>Bolsas en estantería en la etapa de inoculación</em>
             img.my-3(src='@/assets/curso/temas/tema2/img2.svg', alt='Muestra las bolsas en estantería en la etapa de inoculación. Es fundamental revisar las bolsas en estantería tras la siembra, evitando contaminación, hasta que el micelio colonice completamente.')
             p Fuente: SENA – Equipo de Adecuación Didáctica y Gráfica de Recursos Educativos Risaralda (2017).

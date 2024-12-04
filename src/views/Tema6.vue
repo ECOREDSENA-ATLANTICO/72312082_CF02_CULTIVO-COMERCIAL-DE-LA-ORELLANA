@@ -66,7 +66,7 @@
           .col.px-0
             h3.mb-0 Al ambiente
 
-        p.my-3 colocando bajo el sol los hongos en recipientes de poca profundidad de madera o plástico y con una rejilla en el fondo, que permita la circulación del aire.
+        p.my-3 Colocando bajo el sol los hongos en recipientes de poca profundidad de madera o plástico y con una rejilla en el fondo, que permita la circulación del aire.
 
         .row.justify-content-center.my-3
           .titulo-sexto.color-acento-contenido.mb-0.order-lg-1.order-md-2(data-aos="fade-left")
@@ -95,7 +95,7 @@
             img.my-3(src='@/assets/curso/temas/tema6/img6.png', alt='Muestra como el horno deshidratador permite secar hongos rápidamente, independientemente del clima, hasta que estén quebradizos y sin humedad residual.')
           .col-lg-5.align-content-center
             p Si bien los costos directos del secado artificial son mucho más altos que los del secado natural, las ventajas de espacio, velocidad de secado, independencia de las condiciones ambientales y operación día y noche, lo justifican ampliamente. La manera de detectar si los hongos están bien secos, es al tacto, ya que deben de tener consistencia quebradiza. Si éstos se encuentran flexibles, significa que todavía contienen agua. Por lo anterior, debe evitarse almacenar hongos parcialmente secos en recipientes cerrados.
-        p.text-center.mt-0 Nota. El IPP presenta su deshidratador solar para la Agricultura Familiar (2017).
+        p.text-center.mt-0 Nota. Secado artificial, Fuente: Alibaba.com (2017).
 
         p.my-3 Los recipientes contenedores apropiados para presentar los hongos en el mercado son las bolsas de plástico bien cerradas o frascos de boca ancha. Las principales ventajas del secado artificial son:
 

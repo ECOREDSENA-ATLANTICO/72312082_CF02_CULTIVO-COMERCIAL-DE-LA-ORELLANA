@@ -12,7 +12,7 @@
     .row.justify-content-center.my-3
       .col-lg-10.col-md-12
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-left")
-          h5 figura 1.
+          h5 Figura 1.
           span <em>Siembra del micelio en el sustrato</em>
         .row.justify-content-center.mb-3.mt-4.fnd
           .tarjeta.tarjeta--blanca.p-4

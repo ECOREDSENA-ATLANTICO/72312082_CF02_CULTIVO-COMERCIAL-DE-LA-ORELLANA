@@ -34,7 +34,7 @@
           .row.px-3.pt-3.justify-content-center
             .col-lg-7.col-md-12.mb-4.mb-md-0.align-content-center
               h4 Refrigeración
-                p.my-3.mt-4 la conservación de los hongos en cámaras de refrigeración es un buen método que permite mantener fresco durante un mayor tiempo el producto cosechado. Por lo que se requiere contar con un lugar diseñado para tal fin, para que la aireación, la temperatura y la humedad relativa se mantengan uniformes dentro de los límites convenientes.
+                p.my-3.mt-4 La conservación de los hongos en cámaras de refrigeración es un buen método que permite mantener fresco durante un mayor tiempo el producto cosechado. Por lo que se requiere contar con un lugar diseñado para tal fin, para que la aireación, la temperatura y la humedad relativa se mantengan uniformes dentro de los límites convenientes.
                 p La temperatura ideal de refrigeración de la orellana está entre 2 a 4ºC. Se recomienda refrigerar las orellanas lo antes posible, con el fin de detener el proceso de deterioro del producto y el aire de refrigeración es seco, por lo tanto, hay que cubrir las canastillas con papel adsorbente. De esta manera se puede garantizar una vida útil del hongo de 1 a 2 semanas. Es importante mantener la cadena de frío hasta llegar al consumidor. Por lo tanto, los carros o camiones de transporte deben tener ambiente refrigerado.
             .col-lg-5.col-md-12.align-content-center
               figure
@@ -42,14 +42,14 @@
           .row.px-3.pt-3.justify-content-center
             .col-lg-5.col-md-12.mb-4.mb-md-0.align-content-center
               h4 Secado o deshidratación
-                p.mt-4 es un método que permite alargar el tiempo de almacenamiento del hongo, al someter a altas temperaturas los carpóforos, que reducen el contenido de humedad y de esta manera inactivan enzimas y microorganismos, conservando las características organolépticas y nutritivas de la orellana.
+                p.mt-4 Es un método que permite alargar el tiempo de almacenamiento del hongo, al someter a altas temperaturas los carpóforos, que reducen el contenido de humedad y de esta manera inactivan enzimas y microorganismos, conservando las características organolépticas y nutritivas de la orellana.
             .col-lg-7.col-md-12.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema5/img5.png', alt='Imagen decorativa')
           .row.px-3.pt-3.justify-content-center
             .col-lg-5.col-md-12.mb-4.mb-md-0.align-content-center
               h4 Conservas
-                p.mt-4 este método consiste en preservar los hongos en una solución acuosa con una concentración elevada de sal que evitará el crecimiento de los agentes normales de putrefacción y permitirá la conservación por medio de las bacterias acido-lácticas, que producen una tersura de los encurtidos fermentados (Guzmán, Mata, Salmones, Soto, y Guzmán, L. 2010).
+                p.mt-4 Este método consiste en preservar los hongos en una solución acuosa con una concentración elevada de sal que evitará el crecimiento de los agentes normales de putrefacción y permitirá la conservación por medio de las bacterias acido-lácticas, que producen una tersura de los encurtidos fermentados (Guzmán, Mata, Salmones, Soto, y Guzmán, L. 2010).
             .col-lg-7.col-md-12.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema5/img6.png', alt='Imagen decorativa')

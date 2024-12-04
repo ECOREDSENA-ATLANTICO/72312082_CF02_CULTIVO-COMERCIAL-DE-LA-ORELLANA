@@ -16,10 +16,10 @@
             p.my-3 La producción del hongo se inicia con la aparición de los primordios que al principio son masas algodonosas del micelio que luego van formando pequeñas protuberancias que brotan del sustrato hasta transformarse en un hongo adulto.
           .col-lg-7.col-md-8
             .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-left")
-              h5 figura 4.
+              h5 Figura 4.
               span <em>Formación de primordios</em>
             img.my-3(src='@/assets/curso/temas/tema3/img1.png', alt='Muestra la formación de primordios, que marca el inicio de la fase productiva del hongo, donde se desarrollan los cuerpos fructíferos.')
-            p.text-center.mt-0 (Herrera, J. y Ancona, M., 2006).
+            p.text-center.mt-0 <b>Fuente:</b> (Herrera, J. y Ancona, M., 2006).
 
     .row.justify-content-center.my-3
       .col-lg-10.col-md-10
@@ -48,7 +48,7 @@
                   p.text-center Sin corrientes de aire
                   p.text-center Iluminación: baja
               .col-xl-2.col-lg-6.col-md-6.mb-4.mb-md-0.align-content-top(style="justify-items: center")
-                p.text-center.p-3.text-light.mb-0.fondo-titulo-3 <b>MEDIDAS DE PROTECCIÓN PERSONAL</b>
+                p.text-center.p-3.text-light.mb-0.fondo-titulo-3.p-1 <b>MEDIDAS DE PROTECCIÓN PERSONAL</b>
                 .borde-tarjeta-t3
                   p.text-center Gorro
                   p.text-center Tapabocas
