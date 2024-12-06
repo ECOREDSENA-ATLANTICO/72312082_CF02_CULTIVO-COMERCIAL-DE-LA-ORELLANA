@@ -12,7 +12,7 @@
     p.mb-3(data-aos="flip-up") El proceso integral de siembra, cosecha y comercialización abarca desde la preparación del terreno y la inoculación de esporas hasta la fructificación y recolección. Además, el manejo postcosecha incluye la deshidratación para preservar el producto y su distribución en canales comerciales. Bienvenido a este componente formativo:
 
     .video
-      iframe(width="560" height="315" src="https://www.youtube.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/N7abqbbadXE?si=n24GQooOpVDGaVYu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     figcaption Nota: Sena (2024).
     
 </template>
