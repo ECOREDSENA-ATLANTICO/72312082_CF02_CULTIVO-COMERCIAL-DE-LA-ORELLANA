@@ -15,7 +15,7 @@
           .col-auto
             img(src='@/assets/curso/temas/tema1/img3.svg', alt='Imagen decorativa')
           .col.px-0
-            h3.mb-0 Factores condicionantes
+            h3.mb-0 Indicadores de calidad
 
         .row.justify-content-center.my-3
           .col-lg-8.align-content-center

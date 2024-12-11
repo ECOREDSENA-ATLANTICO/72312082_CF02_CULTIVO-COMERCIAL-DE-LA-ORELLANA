@@ -16,7 +16,7 @@
             p.my-3 La producción del hongo se inicia con la aparición de los primordios que al principio son masas algodonosas del micelio que luego van formando pequeñas protuberancias que brotan del sustrato hasta transformarse en un hongo adulto.
           .col-lg-7.col-md-8
             .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-left")
-              h5 Figura 4.
+              h5 Figura 3.
               span <em>Formación de primordios</em>
             img.my-3(src='@/assets/curso/temas/tema3/img1.png', alt='Muestra la formación de primordios, que marca el inicio de la fase productiva del hongo, donde se desarrollan los cuerpos fructíferos.')
             p.text-center.mt-0 <b>Fuente:</b> (Herrera, J. y Ancona, M., 2006).
@@ -41,13 +41,6 @@
                   p.text-center Suficiente ventilación, suficiente oxígeno, bajos niveles de CO2
                   p.text-center Poca luz-semipenumbra
               .col-xl-2.col-lg-6.col-md-6.mb-4.mb-md-0.align-content-top(style="justify-items: center")
-                p.text-center.p-3.text-light.mb-0.fondo-titulo-3 <b>CONDICIONES AMBIENTALES</b>
-                .borde-tarjeta-t3
-                  p.text-center Temperatura: 22-26 °C
-                  p.text-center Humedad relativa: 80-90 %
-                  p.text-center Sin corrientes de aire
-                  p.text-center Iluminación: baja
-              .col-xl-2.col-lg-6.col-md-6.mb-4.mb-md-0.align-content-top(style="justify-items: center")
                 p.text-center.p-3.text-light.mb-0.fondo-titulo-3.p-1 <b>MEDIDAS DE PROTECCIÓN PERSONAL</b>
                 .borde-tarjeta-t3
                   p.text-center Gorro
@@ -56,6 +49,13 @@
                   p.text-center Guantes de latex o nitrillo
                   p.text-center Bata limpia antifluidos
                   p.text-center Calzado desinfectado
+              .col-xl-2.col-lg-6.col-md-6.mb-4.mb-md-0.align-content-top(style="justify-items: center")
+                p.text-center.p-3.text-light.mb-0.fondo-titulo-3 <b>CONDICIONES AMBIENTALES</b>
+                .borde-tarjeta-t3
+                  p.text-center Estrictas condiciones de asepsia
+                  p.text-center Suelo de cemento desinfectado
+                  p.text-center Paredes lisas de fácil limpieza y desinfección
+                  p.text-center Estantería desinfectada
               .col-xl-4.col-lg-6.col-md-6.mb-4.mb-md-0.align-content-center
                 h4.ps-3 Descripción del proceso
                 p.ps-3 La etapa de fructificación (formación de los cuerpos reproductores) se puede realizar en el mismo cuarto donde se llevó a cabo la incubación, siempre que tenga los elementos necesarios para suministrar las condiciones de ventilación, temperatura, humedad y luz que necesitan los primordios para su desarrollo.
@@ -80,7 +80,7 @@
           .row.px-3.pt-3
             .col-lg-6.mb-4.mb-md-0.align-content-center
               h4 Reducción de temperatura
-                p.mt-4 Además de la disminución en temperatura y CO2, la correcta formación del cuerpo fructífero de la orellana requiere de una cierta cantidad de luz. Normalmente se requiere una cantidad aproximada de cuatro horas al día de luz emitida por una bombilla fluorescente. Una manera sencilla de dar luz a los hongos es colocar cada 2 o 2.5 m tejas plásticas blancas en el techo. Estas pueden ser de unos 60 a 80 cm de ancho. De esta manera se utiliza la luz ambiental la cual es distribuida de manera uniforme por medio de las tejas blancas.
+                p.mt-4 Las aplicaciones de riego en las salas de producción tienen varias finalidades: reducción de temperatura en bolsas y ambiente, aumento de la humedad relativa y restitución del agua superficial de la orellana. Si el agua es aplicada con la finalidad de reducir temperatura en las bolsas, se debe tener muchísimo cuidado de no aplicar el agua con gota gruesa y que el agua pueda ingresar al sustrato. Cuando se aplica el agua sobre las orellanas, esta se debe realizar en forma de niebla fina con un nebulizador.
             .col-lg-6.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema3/img4.png', alt='Imagen decorativa')

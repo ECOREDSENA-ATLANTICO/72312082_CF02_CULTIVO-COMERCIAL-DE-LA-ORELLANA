@@ -11,9 +11,6 @@
 
     .row.justify-content-center.my-3
       .col-lg-10.col-md-12
-        .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-left")
-          h5 Figura 1.
-          span <em>Siembra del micelio en el sustrato</em>
         .row.justify-content-center.mb-3.mt-4.fnd
           .tarjeta.tarjeta--blanca.p-4
             .row.justify-content-center.px-3
@@ -47,8 +44,9 @@
                 .borde-tarjeta-4
                   p.mt-0.text-center Estrictas condiciones de asepsia
                   p.text-center Lugar cerrado
-                  p.text-center suelo de cemento
+                  p.text-center Suelo de cemento desinfectado
                   p.text-center Paredes lisas de fácil limpieza y desinfección
+                  p.text-center Estantería desinfectada
         p.text-center Nota. Cultivo de veselins en el sótano (2017).
       
         .row.mt-5.mb-4.align-items-center(data-aos="fade-left")

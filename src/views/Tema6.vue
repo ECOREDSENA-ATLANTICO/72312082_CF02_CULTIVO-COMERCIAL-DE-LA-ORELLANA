@@ -13,14 +13,14 @@
       .col-lg-11.col-md-12
         .row.justify-content-center.my-3
           .titulo-sexto.color-acento-contenido.mb-0.order-lg-1.order-md-2(data-aos="fade-left")
-            h5 Figura 6. 
+            h5 Figura 5. 
             span <em>Hongos deshidratados</em>
           .col-lg-7.align-content-center.order-lg-1.order-md-1
-            p.my-3 El secado es un proceso muy útil para la conservación de los hongos contando con que el nivel de humedad final sea lo suficientemente bajo para no permitir el crecimiento de microorganismos perjudiciales. Por medio de la deshidratación de los hongos partidos en trozos, rasgados en el sentido de las laminillas, se deshidratan con aire que entre más seco y más caliente esté, mayor será la velocidad de secado, hasta obtener una humedad del 10 al 12%, quedando un producto final de muy buena calidad en términos de estructura, volumen, color y apariencia general.
+            p.my-3 El secado es un proceso muy útil para la conservación de los hongos contando con que el nivel de humedad final sea lo suficientemente bajo para no permitir el crecimiento de microorganismos perjudiciales. Por medio de la deshidratación de los hongos partidos en trozos, rasgados en el sentido de las laminillas, se deshidratan con aire que entre más seco y más caliente esté, mayor será la velocidad de secado, hasta obtener una humedad del 10 al 12 %, quedando un producto final de muy buena calidad en términos de estructura, volumen, color y apariencia general.
           .col-lg-5.col-md-8.align-content-center.order-lg-1.order-md-3
-            img.my-3(src='@/assets/curso/temas/tema6/img1.png', alt='Muestra los hongos deshidratados. El secado reduce la humedad de los hongos al 10-12%, garantizando su conservación y calidad estructural, volumen y apariencia.')
+            img.my-3(src='@/assets/curso/temas/tema6/img1.png', alt='Muestra los hongos deshidratados. El secado reduce la humedad de los hongos al 10-12 %, garantizando su conservación y calidad estructural, volumen y apariencia.')
         p.text-center.mt-0 Nota. Hongos comestibles y medicinales (2013).
-
+    p.my-3 Luego se deben conservar en empaques a prueba de humedad y de esta manera, su vida útil puede superar los 30 días (Guarín y Ramírez. 2004).
     h3(data-aos="fade-left").mb-3.mt-3.ps-4.blue_icon Formas de deshidratación 
 
     p.my-3 Los hongos se pueden deshidratar en forma natural o mediante el uso de sistemas artificiales.
@@ -35,26 +35,25 @@
     p.my-3 Por otro lado, sus principales desventajas son:
 
     .row.justify-content-center.mb-2
-      .col-lg-4.col-md-6.align-content-center(data-aos="fade-right")
+      .col-lg-3.col-md-5.align-content-center(data-aos="fade-right")
         figure
-          img.my-3(src="@/assets/curso/temas/tema6/img3.png", alt="alt")(style="height: 450px")
-      .col-lg-8.justify-content-center.align-content-center
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
-          .row(titulo="Tiempo")
-            .col-12
-              p.mb-2 El largo tiempo de secado.
-          .row(titulo="Condiciones")
-            .col-12
-              p.mb-2 Dependencia de las condiciones ambientales (temperatura, humedad relativa, velocidad del aire, radiación solar, etc.).
-          .row(titulo="Humedad")
-            .col-12
-              p.mb-2 Dificultad de alcanzar contenidos de humedad menores a los correspondientes a la humedad de equilibrio del lugar.
-          .row(titulo="Exposición")
-            .col-12
-              p.mb-2 Mayor exposición del producto a daños producidos por agentes biológicos.
-          .row(titulo="Espacios")
-            .col-12
-              p.mb-2 Necesidad de grandes espacios para secar el producto.
+          img.my-3(src="@/assets/curso/temas/tema6/img3.png", alt="alt")
+      .col-lg-9.justify-content-center.align-content-center
+        ul.mt-0
+          li
+            span El largo tiempo de secado.
+        ul.mt-0
+          li
+            span Dependencia de las condiciones ambientales (temperatura, humedad relativa, velocidad del aire, radiación solar, etc.).
+        ul.mt-0
+          li
+            span Dificultad de alcanzar contenidos de humedad menores a los correspondientes a la humedad de equilibrio del lugar.
+        ul.mt-0
+          li
+            span Mayor exposición del producto a daños producidos por agentes biológicos.
+        ul.mt-0
+          li
+            span Necesidad de grandes espacios para secar el producto.
     p.mb-3 Según Guzmán (2010), <b>este proceso se puede realizar de diferentes maneras:</b>
 
     
@@ -70,7 +69,7 @@
 
         .row.justify-content-center.my-3
           .titulo-sexto.color-acento-contenido.mb-0.order-lg-1.order-md-2(data-aos="fade-left")
-            h5 Figura 7. 
+            h5 Figura 6. 
             span <em>Secador con aprovechamiento del calor solar y acumulador de calor</em>
           .col-lg-7.align-content-center.order-lg-1.order-md-1
             p Los recipientes se colocan inclinadas sobre uno de sus lados para favorecer la aireación y se cambian de inclinación y de orientación para que reciban directamente el sol. Los recipientes se cubren con mosquiteros o mantas que eviten la contaminación por insectos o polvo. Sin embargo, existen diversos modelos de deshidratadores con aprovechamiento de calor solar.
@@ -90,7 +89,7 @@
         .row.justify-content-center.my-3
           .col-lg-7.col-md-8.align-content-center
             .titulo-sexto.color-acento-contenido.my-2(data-aos="fade-left")
-              h5 Figura 8. 
+              h5 Figura 7. 
               span <em>Horno deshidratador</em>
             img.my-3(src='@/assets/curso/temas/tema6/img6.png', alt='Muestra como el horno deshidratador permite secar hongos rápidamente, independientemente del clima, hasta que estén quebradizos y sin humedad residual.')
           .col-lg-5.align-content-center
