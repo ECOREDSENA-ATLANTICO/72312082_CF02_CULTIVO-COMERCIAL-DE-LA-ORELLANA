@@ -21,7 +21,7 @@
                 .borde-tarjeta-1
                   p.mt-0.text-center Esterilizado
                   p.text-center Temperatura: 25-28 °C
-                  p.text-center Humedad: 70-75%
+                  p.text-center Humedad: 70-75 %
                   p.text-center ph: 5.5 - 6.5
               .col-xl-2.col-lg-6.col-md-6.mb-4.mb-md-0.align-content-top(style="justify-items: center")
                 p.text-center.p-3.text-light.mb-0.fondo-titulo <b>CONDICIONES AMBIENTALES</b>
@@ -77,7 +77,7 @@
           .row.px-3.pt-3
             .col-lg-6.mb-4.mb-md-0.align-content-center
               h4 Proceso sustrato pasteurizado
-                p.mt-4 El proceso inicia con la corrección del pH, adicionando al sustrato pasteurizado de carbonato de calcio para pH ácido y de sulfato de calcio (yeso agrícola) para pH alcalino. En un porcentaje del 2% por cada kilo de compostaje, luego se mezcla y homogeniza. 
+                p.mt-4 El proceso inicia con la corrección del pH, adicionando al sustrato pasteurizado de carbonato de calcio para pH ácido y de sulfato de calcio (yeso agrícola) para pH alcalino. En un porcentaje del 2 % por cada kilo de compostaje, luego se mezcla y homogeniza. 
             .col-lg-6.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema1/img6.png', alt='Imagen decorativa')
