@@ -26,7 +26,7 @@
               .col-lg-4.col-md-6.mb-4.mb-md-0.align-content-top(style="justify-items: center")
                 p.text-center.p-3.text-light.mb-0.fondo-titulo-7 <b>Productor - Consumidor</b>
                 .borde-tarjeta-t7
-                  p.text-center Es una vía corta, simple y rápida. se utiliza cuando el producto llega directamente al consumidor desde el punto de producción o comercialización, que ha establecido el productor, este se convierte en la mejor alternativa, porque se reducen los intermediarios.
+                  p.text-center Es una vía corta, simple y rápida. Se utiliza cuando el producto llega directamente al consumidor desde el punto de producción o comercialización, que ha establecido el productor, este se convierte en la mejor alternativa, porque se reducen los intermediarios.
               .col-lg-4.col-md-6.mb-4.mb-md-0.align-content-top(style="justify-items: center")
                 p.text-center.p-3.text-light.mb-0.fondo-titulo-7 <b>Productor - mayorista - minorista - consumidor:</b>
                 .borde-tarjeta-t7
@@ -34,7 +34,7 @@
               .col-lg-4.col-md-12.mb-4.mb-md-0.align-content-center
                 h4.ps-3 Descripción del proceso
                 p.ps-3 Por lo que es necesario que el productor antes de la cosecha conozca las alternativas de mercado y la presentación requerida, hacer contacto con centros de abasto, mercados y restaurantes para determinar cuánto, cómo, cuándo y a quién vender. 
-                p.ps-3 No se debe descuidar la presentación final del hongo, debido a que un aspecto agradable y gustoso se convierte en excelente comercialización y valorización del producto
+                p.ps-3 No se debe descuidar la presentación final del hongo, debido a que un aspecto agradable y gustoso se convierte en excelente comercialización y valorización del producto.
 
         p.my-3 Sin embargo, la producción de hongos comestibles se comercializa a través de varios canales de distribución, teniendo en cuenta la localización geográfica y el nivel de ingresos de la población.
         b Los canales de distribución y comercialización son:

@@ -9,6 +9,8 @@
   </template>
 
 <script>
+import { TRUE } from 'node-sass'
+
 export default {
   name: 'ActividadDidactica',
   data: () => ({
@@ -58,11 +60,11 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Humedad y peso.', esCorrecta: true },
+            { id: 'a', texto: 'Humedad y peso.', esCorrecta: false },
             {
               id: 'b',
               texto: 'Factores condicionantes, plagas y enfermedades.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             { id: 'c', texto: 'Forma y tamaño.', esCorrecta: false },
             { id: 'd', texto: 'Humedad y peso.', esCorrecta: false },

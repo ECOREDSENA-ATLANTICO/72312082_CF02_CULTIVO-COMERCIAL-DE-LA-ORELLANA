@@ -26,7 +26,7 @@
     h3(data-aos="fade-left").mb-3.mt-3.blue_icon Métodos de conservación 
 
     p.my-3 La conservación del hongo se realiza con el objetivo de mantener durante un tiempo considerable sus capacidades nutricionales y organolépticas, así como proporcionar una apariencia del producto que sea aceptable por el consumidor. 
-    p.my-3 Los hongos cosechados deben consumirse frescos o someterse a procesos de conservación. Los principales métodos de conservación son: refrigeración, secado o deshidratación y conservas:
+    p.my-3 Los hongos cosechados deben consumirse frescos o conservarse mediante refrigeración, deshidratación o preparación de conservas, como se detalla a continuación:  
 
     .row.justify-content-center.mb-3.mt-4.fnd
       .tarjeta.tarjeta--blanca.p-4

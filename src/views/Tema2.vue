@@ -8,12 +8,12 @@
       h1 Incubación
     
     .row.justify-content-center.my-3
-      .titulo-sexto.color-acento-contenido.mb-3.order-lg-1.order-md-2(data-aos="fade-left")
-        h5 Figura 1.
-        span <em>Inoculación del hongo en el sustrato</em>
-      .col-lg-5.order-lg-3.order-md-1
+      .col-lg-5
         p.my-3 La incubación es el período necesario para que el hongo invada completamente el substrato en las condiciones adecuadas. La duración puede variar entre 20 y 35 días aproximadamente. Durante este periodo de tiempo el micelio del hongo se crece invadiendo gradualmente el sustrato, cambiando éste de color blanquecino, hasta quedar completamente blanco. En este momento termina la etapa de incubación.
-      .col-lg-7.col-md-8.align-content-center.order-lg-3.order-md-3
+      .col-lg-7.col-md-8.align-content-center
+        .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+          h5 Figura 1.
+          span <em>Inoculación del hongo en el sustrato</em>
         img.my-3(src='@/assets/curso/temas/tema2/img1.png', alt='Muestra la inoculación del hongo en el sustrato. También, el sustrato inoculado con la semilla de hongo se deposita en bolsas plásticas, permitiendo drenaje y gases. La incubación dura 20-35 días hasta que el micelio invada completamente.')
         p.text-center.mt-0 Nota. Hongos comestibles y medicinales (2013).
     
@@ -34,24 +34,24 @@
                 .borde-tarjeta
                   p.text-center Temperatura: 22-26 °C
                   p.text-center Humedad relativa: 90-95 %
-                  p.text-center Poca ventilación, suficiente oxígeno, no correintes de aire
-                  p.text-center Ausencia de luz
+                  p.text-center Poca ventilación, suficiente oxígeno, no corrientes de aire.
+                  p.text-center Ausencia de luz.
               .col-xl-2.col-lg-6.col-md-4.mb-4.mb-md-0.align-content-top(style="justify-items: center")
                 p.text-center.p-3.text-light.mb-0.fondo-titulo-2 <b>MEDIDAS DE<br>PROTECCIÓN PERSONAL</b>
                 .borde-tarjeta
-                  p.text-center Gorro
-                  p.text-center Tapabocas
-                  p.text-center Manos desinfectadas
-                  p.text-center Guantes de latex o nitrillo
-                  p.text-center Bata limpia antifluidos
-                  p.text-center Calzado desinfectado
+                  p.text-center Gorro.
+                  p.text-center Tapabocas.
+                  p.text-center Manos desinfectadas.
+                  p.text-center Guantes de latex o nitrillo.
+                  p.text-center Bata limpia antifluidos.
+                  p.text-center Calzado desinfectado.
               .col-xl-2.col-lg-6.col-md-6.mb-4.mb-md-0.align-content-top(style="justify-items: center")
                 p.text-center.p-3.text-light.mb-0.fondo-titulo-2 <b>CONDICIONES AMBIENTALES</b>
                 .borde-tarjeta
-                  p.text-center Estrictas condiciones de asepsia
-                  p.text-center Suelo de cemento desinfectado
-                  p.text-center Paredes lisas de fácil limpieza y desinfección
-                  p.text-center Estantería desinfectada
+                  p.text-center Estrictas condiciones de asepsia.
+                  p.text-center Suelo de cemento desinfectado.
+                  p.text-center Paredes lisas de fácil limpieza y desinfección.
+                  p.text-center Estantería desinfectada.
               .col-xl-5.col-lg-6.col-md-8.mb-4.mb-md-0.align-content-center
                 h4.ps-3 Descripción del proceso
                 p.ps-3 El proceso se lleva a cabo en un cuarto limpio y previamente desinfestado. En las paredes, los pisos y los estantes del cuarto deben espolvorearse carbonato de calcio para reducir los riesgos de contaminación por hongos e insectos.
