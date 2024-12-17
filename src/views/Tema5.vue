@@ -17,8 +17,8 @@
       .col-lg-7.col-md-8.align-content-center.order-lg-3.order-md-3
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-left")
           h5 Figura 4. 
-          span <em>Tipos de empaque de las orellanas</em>
-        img.my-3(src='@/assets/curso/temas/tema5/img2.png', alt=' Muestra los tipos de empaque de las orellanas. Los hongos perecederos deben almacenarse en canastillas plásticas cubiertas con papel adherible perforado, refrigerados a 5 °C por 4 días.')
+          span <em>Figura 5. Tipos de empaque de las orellanas</em>
+        img.my-3(src='@/assets/curso/temas/tema5/img7.png', alt=' Muestra los tipos de empaque de las orellanas. Los hongos perecederos deben almacenarse en canastillas plásticas cubiertas con papel adherible perforado, refrigerados a 5 °C por 4 días.')
       .col-lg-5.order-lg-3.order-md-1.align-content-center
         p.my-3 El tipo de empaque puede ser variado: bandejas pequeñas de icopor cubiertas con papel adherible, cajas o canastas de plástico, cajas de icopor o polietileno tereftalato (PET). Los hongos por ser perecederos, es recomendable refrigerarlas por un tiempo no mayor a 4 días dentro de una canastilla de plástico a 2 / 3 partes de su capacidad y cubiertas con papel adherible con pequeñas perforaciones a 5 °C.
     p.text-center.mt-0 Nota. Tipos de empaque de las orellanas. Fuente: Mundhongo (2017).

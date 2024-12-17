@@ -262,7 +262,8 @@ export default {
         {
           nombre: 'Andrea Patiño Villarraga ',
           cargo: 'Experta temática',
-          centro: 'SENA - Regional Risaralda.',
+          centro:
+            'Equipo de Adecuación Gráfica y Didáctica de Recursos Educativos. SENA - Regional Risaralda.',
         },
         {
           nombre: 'Gilberto Herrera Delgans',

@@ -47,9 +47,9 @@
           .col-lg-7
             p(style="background: #B2AC97; padding: 1em") <b>Plazas de mercado.</b>
             p(style="background: #B2AC97; padding: 1em") <b>Puestos fijos.</b>
+            p(style="background: #B2AC97; padding: 1em") <b>Supermercados (Cajas de compensación-cadenas de  supermercados).</b>
             p(style="background: #B2AC97; padding: 1em") <b>Comerciantes y procesadores.</b>
             p(style="background: #B2AC97; padding: 1em") <b>Restaurantes especializados en comida internacional.</b>
-            p(style="background: #B2AC97; padding: 1em") <b>Supermercados (Cajas de compensación-cadenas de  supermercados).</b>
             p(style="background: #B2AC97; padding: 1em") <b>Hoteles y clubes</b>
         p.my-3 Los canales de comercialización de los hongos Orellana son fundamentales para impulsar su demanda. La introducción de ferias ecológicas y plataformas digitales promueve el acceso a consumidores interesados en productos frescos y sostenibles, aumentando la visibilidad y sostenibilidad del mercado.
 

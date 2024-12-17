@@ -18,7 +18,7 @@
             .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-left")
               h5 Figura 3.
               span <em>Formación de primordios</em>
-            img.my-3(src='@/assets/curso/temas/tema3/img1.png', alt='Muestra la formación de primordios, que marca el inicio de la fase productiva del hongo, donde se desarrollan los cuerpos fructíferos.')
+            img.my-3(src='@/assets/curso/temas/tema5/img2.png', alt='Muestra la formación de primordios, que marca el inicio de la fase productiva del hongo, donde se desarrollan los cuerpos fructíferos.')
             p.text-center.mt-0 Nota. Biosetas y orgánicos. <a href="https://biosetascultivo.blogspot.com/(2017)">https://biosetascultivo.blogspot.com/(2017)</a>
 
     .row.justify-content-center.my-3
