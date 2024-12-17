@@ -9,8 +9,6 @@
   </template>
 
 <script>
-import { TRUE } from 'node-sass'
-
 export default {
   name: 'ActividadDidactica',
   data: () => ({
